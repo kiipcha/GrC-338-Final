@@ -3,11 +3,14 @@
 
 h1 {
 	text-align: center;
+	font-family: 'Oswald', sans-serif;
 }
 
 
 h2 {
 	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 200;
 }
 
 
@@ -23,6 +26,8 @@ h2 {
 	display: inline-block;
 	margin: 0px 30px;
 	margin-bottom: 20px;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 100;
 }
 
 a:link {
@@ -38,6 +43,24 @@ a:link {
 
 .images img {
 	display: inline-block;
-	padding-right: 5%;
-	padding-left: 5%;
+	padding: 1% 5% 1% 5%;
+}
+.images2 {
+	width: 100%;
+	padding-left: 4%;
+}
+
+.images2 img {
+	display: inline-block;
+	padding: 1% 5% 1% 5%;
+	
+}
+.images3 {
+	width: 100%;
+	padding-left: 4%;
+}
+
+.images3 img {
+	display: inline-block;
+	padding: 1% 5% 1% 5%;
 }
