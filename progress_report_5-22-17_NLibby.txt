@@ -1,0 +1,71 @@
+commit cfa67a9772b494d6458d3c49f9734ab4a454a3c6
+Author: kiipcha <nicole.m.libby@gmail.com>
+Date:   Mon May 22 11:14:57 2017 -0700
+
+    Adjust hover opacity
+
+commit 6b9d42c9840b26f0fc07c87d3854aca802a22450
+Author: kiipcha <nicole.m.libby@gmail.com>
+Date:   Mon May 22 11:11:57 2017 -0700
+
+    Insert blue flower hover
+
+commit f9b10efba4dd43502f131c46c2ab29a42f5bdb6b
+Author: kiipcha <nicole.m.libby@gmail.com>
+Date:   Mon May 22 10:41:18 2017 -0700
+
+    Adjust image hover
+
+commit 8e84b909584fe48c5576fc034426b9e0b3751937
+Author: kiipcha <nicole.m.libby@gmail.com>
+Date:   Mon May 22 10:10:28 2017 -0700
+
+    Change fonts and style
+
+commit b0920e52e50b159713b4e7ea099707676df80859
+Author: kiipcha <nicole.m.libby@gmail.com>
+Date:   Mon May 15 11:51:05 2017 -0700
+
+    Add More Test Images
+
+commit cc747701be423a3126f5628d945d430c79543abf
+Author: kiipcha <nicole.m.libby@gmail.com>
+Date:   Mon May 15 11:37:35 2017 -0700
+
+    Center Nav
+
+commit 0b17cae5c292b1ff1a1e84cd322832d0f8eb1545
+Author: kiipcha <nicole.m.libby@gmail.com>
+Date:   Mon May 15 11:10:22 2017 -0700
+
+    Center Test Images
+
+commit 83954d2b3adb1d522b1511269452463c5221f6dc
+Author: kiipcha <nicole.m.libby@gmail.com>
+Date:   Mon May 15 10:38:50 2017 -0700
+
+    Create Image Folder
+
+commit 94ea81b3896bca3999c8570a4b9d8a85544c0649
+Author: kiipcha <nicole.m.libby@gmail.com>
+Date:   Mon May 15 10:29:48 2017 -0700
+
+    Begin Bucket List
+
+commit 6790f780187fcfae48005f5ea7737e53a2b9aff5
+Author: kiipcha <nicole.m.libby@gmail.com>
+Date:   Mon May 15 10:12:55 2017 -0700
+
+    Add Headings
+
+commit d03abbf56a6ad8fde73a682f12e23dfabb5c847d
+Author: kiipcha <nicole.m.libby@gmail.com>
+Date:   Mon May 15 10:10:18 2017 -0700
+
+    Start Navigation
+
+commit 7186c824c3f5b0a8e1e54899b1f87cf2b09bbeae
+Author: kiipcha <nicole.m.libby@gmail.com>
+Date:   Mon May 15 09:58:14 2017 -0700
+
+    Add Files
