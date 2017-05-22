@@ -65,6 +65,7 @@ a:hover {
 .images {
 	width: 100%;
 	padding-left: 4%;
+
 }
 
 .images img {
@@ -73,13 +74,10 @@ a:hover {
 }
 
 .images img:hover {
-	background-color: white;
+	background: url(../images/flower-blue.png);
 	opacity: .5;
 }
 
-p:hover {
-	display: block;
-}
   
 .images2 {
 	width: 100%;
