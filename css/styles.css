@@ -71,12 +71,22 @@ a:hover {
 	display: inline-block;
 	padding: 1% 5% 1% 5%;
 }
+
+.images img:hover {
+	background-color: white;
+	opacity: .5;
+}
+
+p:hover {
+	display: block;
+}
+  
 .images2 {
 	width: 100%;
 	padding-left: 4%;
 }
 
-.images2 img {
+.images2 img{
 	display: inline-block;
 	padding: 1% 5% 1% 5%;
 	
@@ -89,4 +99,8 @@ a:hover {
 .images3 img {
 	display: inline-block;
 	padding: 1% 5% 1% 5%;
+}
+
+.images:hover {
+	color: black;
 }
