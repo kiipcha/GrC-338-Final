@@ -111,10 +111,11 @@ a:hover {
 
 /*Start About CSS*/
 
-.text{
+.text, .text2{
 	
 	width: 30%;
 	margin-left: 20%;
+	margin-bottom: 1%;
 	font-family: 'Questrial', sans-serif;
 	letter-spacing: 2px;
 	font-weight: 100;
@@ -127,3 +128,21 @@ a:hover {
 	margin-right: 20%;
 }
 
+#start1 {
+	float: left;
+	margin-left: 20%;
+	
+}
+
+.start2 {
+	width: 30%;
+	margin-right: 20%;
+	margin-bottom: 1%;
+	font-family: 'Questrial', sans-serif;
+	letter-spacing: 2px;
+	font-weight: 100;
+	font-size: 14px;
+	line-height: 20px;
+	float:right;
+	
+}
