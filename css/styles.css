@@ -106,3 +106,24 @@ a:hover {
 .images3 img:hover {
 	opacity: .5;
 }
+
+/*End Home Page CSS*/
+
+/*Start About CSS*/
+
+.text{
+	
+	width: 30%;
+	margin-left: 20%;
+	font-family: 'Questrial', sans-serif;
+	letter-spacing: 2px;
+	font-weight: 100;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+#profile {
+	float: right;
+	margin-right: 20%;
+}
+
